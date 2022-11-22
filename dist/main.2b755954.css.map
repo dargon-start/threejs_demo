@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/css/main.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"main.2b755954.css","sourceRoot":"..\\src","sourcesContent":["*{\r\n    margin: 0;\r\n    padding: 0;\r\n}\r\n\r\nbody{\r\n    background-color: beige;\r\n}"]}
